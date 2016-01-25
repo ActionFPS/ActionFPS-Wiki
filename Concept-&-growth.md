@@ -1,8 +1,7 @@
 Crucial 
 ==
-Imo most important bit ia
-Is the **new user flow**:
-> I'm a newbie and open this site. How and why do I end up playing the game?
+Imo most important bit is the **new user flow**:
+> I'm a newbie and open this site. How and why do I end up playing the game, and coming back again?
 
 Should optimise the living lights out of that.
 
