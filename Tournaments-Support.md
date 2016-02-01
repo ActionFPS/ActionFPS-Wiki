@@ -46,3 +46,8 @@ AB
 http://actionfps.com/game/?id=2016-02-01T21:38:16Z
 http://actionfps.com/game/?id=2016-02-01T21:53:59Z
 ```
+
+Tournament should show up in the tournament list
+Clicking it on the list should render the tree and (final) result.
+Players should have a section on their page that displays won tournaments.
+
