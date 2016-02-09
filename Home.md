@@ -1,1 +1,1 @@
-Welcome to the ActionFPS wiki! https://wiki.cubers.net/action/view/ActionFPS
+Welcome to the ActionFPS wiki! http://wiki.cubers.net/action/view/ActionFPS
