@@ -1,4 +1,4 @@
-ActionFPS needs:
+# What ActionFPS needs
 
 1. More players. More players = more contributors = easier to find quality.
 2. A quality player base. More quality = more good contributor retention.
@@ -41,8 +41,3 @@ At the beginning, __achievements__ were very useful. In some time, there will be
 At the beginning, __clanwars__ were very useful. But __tournaments__ will become more important soon.
 
 So we will change the focus from low level things like frags to higher level aggregated things like tournament wins.
-
-
-# Historical concept work
-
-**Clanwars**: https://drive.google.com/a/vynar.com/file/d/0B7BXpjZMKCAIb3RsS2c5SG94TVk/view
