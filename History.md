@@ -10,6 +10,8 @@
 
 **November 2015**: woop.ac turned into actionfps and open sourced.
 
+**January 2016**: Implemented Clanwars. [Concept document](https://drive.google.com/a/vynar.com/file/d/0B7BXpjZMKCAIb3RsS2c5SG94TVk/view)
+
 **May 2016**: Ladder launched.
 
 **January 2017**: Challonge integration launched.
