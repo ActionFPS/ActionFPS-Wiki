@@ -85,3 +85,6 @@ $ ls .../dev-app/target/universal/stage/bin
 dev-app     dev-app.bat game-parser
 $ 3999.log | ./dev-app/target/universal/stage/bin/game-parser
 ```
+
+## DevOps
+Continuous Deployment: master --> <https://git.watch/> --> build & restart. Simple monolithic deployment.
