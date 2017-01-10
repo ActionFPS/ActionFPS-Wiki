@@ -1,8 +1,5 @@
-Welcome to the ActionFPS wiki! http://wiki.cubers.net/action/view/ActionFPS
+Welcome to the ActionFPS Wiki! 
 
+To the right, find all the relevant pages to help you.
 
-Architecture:
-
-![](https://docs.google.com/drawings/d/1fGcN6fcKC_oCL1KtC_-pmWCT_1Da-ka0nijrzUuxiyw/pub?w=661&h=567)
-
-[View large image](https://docs.google.com/drawings/d/1fGcN6fcKC_oCL1KtC_-pmWCT_1Da-ka0nijrzUuxiyw/pub?w=1984&h=1701)
+This is the central place for the documentation so it will be kept up to date.
