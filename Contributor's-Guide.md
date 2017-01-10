@@ -1,5 +1,3 @@
-# ActionFPS
-
 We welcome any contribution very much!
 
 | What you have       | For ActionFPS (General)           | ActionFPS Game  |
