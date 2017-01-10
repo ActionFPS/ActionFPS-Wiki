@@ -1,27 +1,47 @@
-Crucial to think about **new user flow**:
+ActionFPS needs:
+1. More players. More players = more contributors = easier to find quality.
+2. A quality player base. More quality = more good contributor retention.
+
+# What we can do
+
+## New user flow
+
 > I'm a newbie and open this site. How and why do I end up playing the game, and coming back again?
 
-We must optimise the living lights out of that.
+1. Make the new user flow very simple: go to website, register & play.
+2. Make the first experience as good as possible.
 
-We take the agile incremental approach: work against what makes sense now, not what makes sense in 2 years time.
+Bounce rate of non-AC people is very high in my estimation. This is because the current flow is bad. The homepage is confusing for a newbie. It should be very clear. Big Play button was a good idea.
 
-Achievements were really useful at the beginning, but they are too fine grained and at some point there'll be so many they won't mean anything any more. Clan wars on the other hand were infrequent but in future there'll be many more.
+When you download the game, you still need to configure many things. The set up should be simpler.
 
-Just like introducing this concept, we have to go through some ephemeral, temporary, transitive stages.
+### Communicating better to retain people
 
-We aim to sustainably grow, both with the amount of input we put in and the amount of people we attract. 
+Players need to be shown what we are about. Make it easy for them to help us: create guides such as "How to start a Clan", "How to play your first game", "How to contribute". We want social players, not QL lone wolves.
 
-Here's some old work on Clanwars: https://drive.google.com/a/vynar.com/file/d/0B7BXpjZMKCAIb3RsS2c5SG94TVk/view
+We should show off our social streams such as Discord, Twitch, live games, etc, and make them accessible even in off-peak times.
 
-Currently as a new player I'll have no idea what anything means, and even if I do manage to download the game still I'm left clueless as to what it all is about.
+Being very organised will make it easy to retain the most intelligent talent.
 
-We need to start adding guides for new players. How to start a Clan, how to meet people. Cause it's really about meeting people and playing with them, not just shooting random stuff.
+#### Attracting developers
 
-In that way we'll never be like QL where you open & shoot, we'll be much more organised and addictive.
+Provide high quality documentation and guides: "How to analyse ActionFPS data". This could attract many programmers looking to get experience in Data Science, Scala and other areas.
 
-Need to show off our strong points, eg Discord activity.
+## Work on the right project.
 
-Implement a minimal concept, merge to master, keep on iterating.
+Be incremental: no 3-month projects, but small projects that make a big difference.
+
+Implement an MVP, merge to master, get feedback and observe, iterate.
+
+## Change priorities correctly
+
+At the beginning, __achievements__ were very useful. In some time, there will be too many of them and so they will mean less.
+
+At the beginning, __clanwars__ were very useful. But __tournaments__ will become more important soon.
+
+So we will change the focus from low level things like frags to higher level aggregated things like tournament wins.
 
 
-Minimise the bounce rate first of all, then think of big grand ideas.
+# Historical concept work
+
+**Clanwars**: https://drive.google.com/a/vynar.com/file/d/0B7BXpjZMKCAIb3RsS2c5SG94TVk/view
